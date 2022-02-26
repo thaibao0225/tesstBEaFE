@@ -19,6 +19,7 @@ namespace tesstBEaFE.Pages
 
         public void OnGet()
         {
+            var haha = "haha";
 
         }
     }
